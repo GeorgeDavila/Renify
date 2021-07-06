@@ -32,4 +32,4 @@ import os
 os.system("wget " + user_photo_link + "  -O raw/user_photo.jpg")
 
 
-Alternatively you can leave the nme the same and look for it manually in content/stylegan2/generated/ 
+Alternatively you can leave the name the same and look for the toonified image manually in content/stylegan2/generated/ 
